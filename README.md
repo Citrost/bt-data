@@ -27,7 +27,7 @@ khi bạn tải sẽ khác một chút. Dữ liệu chỉ dùng cho mục đích
 
 ## Cách chạy
 
-Chạy từ thư mục `imdb-bulk-insert/`.
+Chạy từ thư mục `bt-data/`.
 
 ```bash
 # 1. Tải dữ liệu
@@ -57,7 +57,7 @@ python src/ablation.py
 ## Cấu trúc
 
 ```text
-imdb-bulk-insert/
+bt-data/
 ├── README.md, REPORT.md
 ├── sql/schema.sql               # 15 bảng
 ├── src/
