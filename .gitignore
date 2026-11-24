@@ -1,0 +1,8 @@
+# Du lieu tai ve va file sinh ra - khong push len GitHub
+data/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+results/*_smoke.json
